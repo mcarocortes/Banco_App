@@ -1,0 +1,64 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\1.1.png" />
+    <None Remove="Images\1.2.png" />
+    <None Remove="Images\1.png" />
+    <None Remove="Images\2.png" />
+    <None Remove="Images\3.1.png" />
+    <None Remove="Images\3.png" />
+    <None Remove="Images\4.2.png" />
+    <None Remove="Images\4.png" />
+    <None Remove="Images\5.1.png" />
+    <None Remove="Images\5.2.png" />
+    <None Remove="Images\5.png" />
+    <None Remove="Images\6.1.png" />
+    <None Remove="Images\6.2.png" />
+    <None Remove="Images\6.png" />
+    <None Remove="Images\7.1.png" />
+    <None Remove="Images\7.png" />
+    <None Remove="Images\8.1.png" />
+    <None Remove="Images\8.png" />
+    <None Remove="Images\9.1.png" />
+    <None Remove="Images\9.2.png" />
+    <None Remove="Images\9.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Images\1.2.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\4.2.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\5.2.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Images\3.1.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\6.2.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\7.1.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\8.1.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\9.2.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+</Project>

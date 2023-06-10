@@ -1,0 +1,60 @@
+C:\Users\Usuario\Downloads\Banco_MacarenaCaro_1DAWe\Banco_MacarenaCaro_1DAWe\WpfApp1\bin\Debug\net6.0-windows\Banco.exe
+C:\Users\Usuario\Downloads\Banco_MacarenaCaro_1DAWe\Banco_MacarenaCaro_1DAWe\WpfApp1\bin\Debug\net6.0-windows\Images\1.2.png
+C:\Users\Usuario\Downloads\Banco_MacarenaCaro_1DAWe\Banco_MacarenaCaro_1DAWe\WpfApp1\bin\Debug\net6.0-windows\Images\4.2.png
+C:\Users\Usuario\Downloads\Banco_MacarenaCaro_1DAWe\Banco_MacarenaCaro_1DAWe\WpfApp1\bin\Debug\net6.0-windows\Images\5.2.png
+C:\Users\Usuario\Downloads\Banco_MacarenaCaro_1DAWe\Banco_MacarenaCaro_1DAWe\WpfApp1\bin\Debug\net6.0-windows\Images\3.1.png
+C:\Users\Usuario\Downloads\Banco_MacarenaCaro_1DAWe\Banco_MacarenaCaro_1DAWe\WpfApp1\bin\Debug\net6.0-windows\Images\6.2.png
+C:\Users\Usuario\Downloads\Banco_MacarenaCaro_1DAWe\Banco_MacarenaCaro_1DAWe\WpfApp1\bin\Debug\net6.0-windows\Images\7.1.png
+C:\Users\Usuario\Downloads\Banco_MacarenaCaro_1DAWe\Banco_MacarenaCaro_1DAWe\WpfApp1\bin\Debug\net6.0-windows\Images\8.1.png
+C:\Users\Usuario\Downloads\Banco_MacarenaCaro_1DAWe\Banco_MacarenaCaro_1DAWe\WpfApp1\bin\Debug\net6.0-windows\Images\9.2.png
+C:\Users\Usuario\Downloads\Banco_MacarenaCaro_1DAWe\Banco_MacarenaCaro_1DAWe\WpfApp1\bin\Debug\net6.0-windows\Banco.deps.json
+C:\Users\Usuario\Downloads\Banco_MacarenaCaro_1DAWe\Banco_MacarenaCaro_1DAWe\WpfApp1\bin\Debug\net6.0-windows\Banco.runtimeconfig.json
+C:\Users\Usuario\Downloads\Banco_MacarenaCaro_1DAWe\Banco_MacarenaCaro_1DAWe\WpfApp1\bin\Debug\net6.0-windows\Banco.dll
+C:\Users\Usuario\Downloads\Banco_MacarenaCaro_1DAWe\Banco_MacarenaCaro_1DAWe\WpfApp1\bin\Debug\net6.0-windows\Banco.pdb
+C:\Users\Usuario\Downloads\Banco_MacarenaCaro_1DAWe\Banco_MacarenaCaro_1DAWe\WpfApp1\obj\Debug\net6.0-windows\Banco.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\Banco_MacarenaCaro_1DAWe\Banco_MacarenaCaro_1DAWe\WpfApp1\obj\Debug\net6.0-windows\Formulario.g.cs
+C:\Users\Usuario\Downloads\Banco_MacarenaCaro_1DAWe\Banco_MacarenaCaro_1DAWe\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Usuario\Downloads\Banco_MacarenaCaro_1DAWe\Banco_MacarenaCaro_1DAWe\WpfApp1\obj\Debug\net6.0-windows\Banco_Content.g.cs
+C:\Users\Usuario\Downloads\Banco_MacarenaCaro_1DAWe\Banco_MacarenaCaro_1DAWe\WpfApp1\obj\Debug\net6.0-windows\Banco_MarkupCompile.cache
+C:\Users\Usuario\Downloads\Banco_MacarenaCaro_1DAWe\Banco_MacarenaCaro_1DAWe\WpfApp1\obj\Debug\net6.0-windows\Banco_MarkupCompile.lref
+C:\Users\Usuario\Downloads\Banco_MacarenaCaro_1DAWe\Banco_MacarenaCaro_1DAWe\WpfApp1\obj\Debug\net6.0-windows\Formulario.baml
+C:\Users\Usuario\Downloads\Banco_MacarenaCaro_1DAWe\Banco_MacarenaCaro_1DAWe\WpfApp1\obj\Debug\net6.0-windows\Banco.g.resources
+C:\Users\Usuario\Downloads\Banco_MacarenaCaro_1DAWe\Banco_MacarenaCaro_1DAWe\WpfApp1\obj\Debug\net6.0-windows\Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\Banco_MacarenaCaro_1DAWe\Banco_MacarenaCaro_1DAWe\WpfApp1\obj\Debug\net6.0-windows\Banco.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\Banco_MacarenaCaro_1DAWe\Banco_MacarenaCaro_1DAWe\WpfApp1\obj\Debug\net6.0-windows\Banco.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\Banco_MacarenaCaro_1DAWe\Banco_MacarenaCaro_1DAWe\WpfApp1\obj\Debug\net6.0-windows\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Banco_MacarenaCaro_1DAWe\Banco_MacarenaCaro_1DAWe\WpfApp1\obj\Debug\net6.0-windows\Banco.dll
+C:\Users\Usuario\Downloads\Banco_MacarenaCaro_1DAWe\Banco_MacarenaCaro_1DAWe\WpfApp1\obj\Debug\net6.0-windows\refint\Banco.dll
+C:\Users\Usuario\Downloads\Banco_MacarenaCaro_1DAWe\Banco_MacarenaCaro_1DAWe\WpfApp1\obj\Debug\net6.0-windows\Banco.pdb
+C:\Users\Usuario\Downloads\Banco_MacarenaCaro_1DAWe\Banco_MacarenaCaro_1DAWe\WpfApp1\obj\Debug\net6.0-windows\Banco.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\Banco_MacarenaCaro_1DAWe\Banco_MacarenaCaro_1DAWe\WpfApp1\obj\Debug\net6.0-windows\ref\Banco.dll
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\4. Banco\WpfApp1\bin\Debug\net6.0-windows\Banco.exe
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\4. Banco\WpfApp1\bin\Debug\net6.0-windows\Images\1.2.png
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\4. Banco\WpfApp1\bin\Debug\net6.0-windows\Images\4.2.png
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\4. Banco\WpfApp1\bin\Debug\net6.0-windows\Images\5.2.png
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\4. Banco\WpfApp1\bin\Debug\net6.0-windows\Images\3.1.png
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\4. Banco\WpfApp1\bin\Debug\net6.0-windows\Images\6.2.png
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\4. Banco\WpfApp1\bin\Debug\net6.0-windows\Images\7.1.png
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\4. Banco\WpfApp1\bin\Debug\net6.0-windows\Images\8.1.png
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\4. Banco\WpfApp1\bin\Debug\net6.0-windows\Images\9.2.png
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\4. Banco\WpfApp1\bin\Debug\net6.0-windows\Banco.deps.json
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\4. Banco\WpfApp1\bin\Debug\net6.0-windows\Banco.runtimeconfig.json
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\4. Banco\WpfApp1\bin\Debug\net6.0-windows\Banco.dll
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\4. Banco\WpfApp1\bin\Debug\net6.0-windows\Banco.pdb
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\4. Banco\WpfApp1\obj\Debug\net6.0-windows\Banco.csproj.AssemblyReference.cache
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\4. Banco\WpfApp1\obj\Debug\net6.0-windows\Formulario.g.cs
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\4. Banco\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\4. Banco\WpfApp1\obj\Debug\net6.0-windows\Banco_Content.g.cs
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\4. Banco\WpfApp1\obj\Debug\net6.0-windows\Banco_MarkupCompile.cache
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\4. Banco\WpfApp1\obj\Debug\net6.0-windows\Banco_MarkupCompile.lref
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\4. Banco\WpfApp1\obj\Debug\net6.0-windows\Formulario.baml
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\4. Banco\WpfApp1\obj\Debug\net6.0-windows\Banco.g.resources
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\4. Banco\WpfApp1\obj\Debug\net6.0-windows\Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\4. Banco\WpfApp1\obj\Debug\net6.0-windows\Banco.AssemblyInfoInputs.cache
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\4. Banco\WpfApp1\obj\Debug\net6.0-windows\Banco.AssemblyInfo.cs
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\4. Banco\WpfApp1\obj\Debug\net6.0-windows\Banco.csproj.CoreCompileInputs.cache
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\4. Banco\WpfApp1\obj\Debug\net6.0-windows\Banco.dll
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\4. Banco\WpfApp1\obj\Debug\net6.0-windows\refint\Banco.dll
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\4. Banco\WpfApp1\obj\Debug\net6.0-windows\Banco.pdb
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\4. Banco\WpfApp1\obj\Debug\net6.0-windows\Banco.genruntimeconfig.cache
+C:\Users\mcaro\OneDrive\Documentos\5.IG FORMACION\1.PROGRAMACION\0.ENTREGAS FINALES\4. Banco\WpfApp1\obj\Debug\net6.0-windows\ref\Banco.dll
